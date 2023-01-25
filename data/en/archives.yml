@@ -16,11 +16,14 @@ filtermenu :
   - name      : Forensics
     category  : Forensics
 
+  - name      : Bin Expl
+    category  : Binary Exploitation
+
 item   :
   - title : Session
     ps : abcdqwerty
     image : images/portfolio/portfolio-1.jpg
-    category  : Web Exploitation, Forensics
+    category  : Web Exploitation, Forensics, Binary Exploitation
     url : are-you-doing-the-right-way
     payload : https://google.com
 
@@ -47,7 +50,7 @@ item   :
   - title : Ballon Card
     ps : abcdqwertyfpoerhfi erhofuerofherifhofwe frfergergefeferge geg3g34t34r
     image : images/company/Mission.jpg
-    category  : Forensics
+    category  : Forensics, Binary Exploitation
 
   - title : Ready Toons
     ps : abcdqwertyfpoerhfierhofuerofhe rifhofwefrfergergefefergegeg3g34t34r
