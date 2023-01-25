@@ -1,6 +1,3 @@
-baseURL = "https://mistyravager.github.io/kludge-project/"
-publishDir = "docs"
-
 languageCode = "en-us"
 title = "Kludge Website"
 theme = "navigator-hugo"
