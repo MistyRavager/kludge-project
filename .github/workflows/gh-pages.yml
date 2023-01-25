@@ -41,4 +41,4 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           publish_dir: ./docs
-        run: git push origin `git subtree split --prefix docs main`:gh-pages --force
+        # run: git push origin `git subtree split --prefix docs main`:gh-pages --force
